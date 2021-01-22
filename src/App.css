@@ -1,0 +1,36 @@
+body {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-color: rgb(115, 135, 168);
+    display: grid;
+    place-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}   
+
+input{
+    outline: none;
+    margin-top: 10rem;
+    border-radius: 1rem;
+    border-style: none;
+    padding: 0.6rem;
+    width:13rem;
+    padding-left: 2rem;
+   
+}
+
+.city{
+   
+    margin-top: 2rem;
+    border-radius: 2rem;
+    background-color: white;
+    height: 20rem;
+    width: 17rem;
+    display: grid;
+    place-items: center;
+    box-shadow: 10px 10px rgba(186, 197, 229, 0.432)
+  
+}
+
